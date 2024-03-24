@@ -29,4 +29,4 @@ ${KEYCLOAK_HOME}/bin/kc.sh build
 ```
 
 #### Docker
-Mount or copy the jar to /opt/keycloak/providers.
+Mount or copy the jar to `/opt/keycloak/providers`.
