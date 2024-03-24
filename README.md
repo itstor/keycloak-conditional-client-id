@@ -6,7 +6,7 @@ This repository contains a Keycloak extension that introduces a conditional flow
 
 One of the primary use cases for this extension is in environments where:
 
-- **IdP-First Broker Login Override:** There is a need to customize the default IdP-first broker login on a per-client basis, which is not natively supported by Keycloak.
+- **IdP-First Broker Login Override:** There is a need to customize the default IdP-first broker login or post login on a per-client basis, which is not natively supported by Keycloak.
 - **Client-Specific Registration Controls:** In multi-tenant setups, it may be necessary to disable idp registration or apply specific registration policies for certain clients.
 - **Selective Authentication Flow Configuration**: There's a need to configure the authentication flow for specific clients without the need to manually override settings for each one individually. 
 
