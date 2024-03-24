@@ -30,3 +30,7 @@ ${KEYCLOAK_HOME}/bin/kc.sh build
 
 #### Docker
 Mount or copy the jar to `/opt/keycloak/providers`.
+
+### Configuration
+Here is the example of the configuration:
+[![image.png](https://i.postimg.cc/sXJ9N1G0/image.png)](https://postimg.cc/XGpCZj8w)
