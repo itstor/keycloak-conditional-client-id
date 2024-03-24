@@ -17,7 +17,7 @@ One of the primary use cases for this extension is in environments where:
 This project uses Gradle for building and packaging the extension. To compile the project, ensure you have Gradle installed on your system, and run the following command in the project's root directory:
 
 ```bash
-./gradlew build
+gradle build
 ```
 
 ### Installation
